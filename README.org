@@ -1,0 +1,6 @@
+Este repositorio contiene los programas desarrollados en el marco de la asignatura Estructura de Datos y Algoritmos (semestre 2025-2), dictada por el Departamento de Electrónica de la Universidad Técnica Federico Santa María.
+
+* 20250807
+- hola_mundo.c
+- ex_tipos.c
+  
