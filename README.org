@@ -7,4 +7,5 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_array.c][ex_array.c]]
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_funcion.c][ex_funcion.c]]
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_prepost.c][ex_prepost.c]]
-
+* 20250814
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_pointer_arithmetic.c][ex_pointer_arithmetic.c]]
