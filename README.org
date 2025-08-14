@@ -3,4 +3,8 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 * 20250807
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/hola_mundo.c][hola_mundo.c]]
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_tipos.c][ex_tipos.c]]
-  
+* 20250813
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_array.c][ex_array.c]]
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_funcion.c][ex_funcion.c]]
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_prepost.c][ex_prepost.c]]
+
