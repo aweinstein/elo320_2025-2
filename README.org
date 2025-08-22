@@ -10,3 +10,8 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 * 20250814
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_pointer_arithmetic.c][ex_pointer_arithmetic.c]]
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_swap.c][ex_swap.c]]  
+* 20250820
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_literal_string.c][ex_literal_string.c]]
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_pointers.c][ex_pointers.c]]  
+* 20250821
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_malloc.c][ex_malloc.c]]
