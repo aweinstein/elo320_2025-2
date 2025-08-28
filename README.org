@@ -1,5 +1,7 @@
 Este repositorio contiene los programas desarrollados en el marco de la asignatura Estructura de Datos y Algoritmos (semestre 2025-2), dictada por el Departamento de Electrónica de la Universidad Técnica Federico Santa María.
 
+* Tareas
+- [[https://github.com/aweinstein/elo320_2025-2/tree/main/tarea_1_code][Código para tareas 1.]]
 * 20250807
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/hola_mundo.c][hola_mundo.c]]
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_tipos.c][ex_tipos.c]]
@@ -15,3 +17,5 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_pointers.c][ex_pointers.c]]  
 * 20250821
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_malloc.c][ex_malloc.c]]
+* 20250827
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_lista_simple_1.c][ex_lista_simple_1.c]]
