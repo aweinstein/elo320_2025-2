@@ -19,3 +19,5 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_malloc.c][ex_malloc.c]]
 * 20250827
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_lista_simple_1.c][ex_lista_simple_1.c]]
+* 20250828
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_lista_simple_2.c][ex_lista_simple_2.c]]
