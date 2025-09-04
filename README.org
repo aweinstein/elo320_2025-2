@@ -21,3 +21,9 @@ Este repositorio contiene los programas desarrollados en el marco de la asignatu
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_lista_simple_1.c][ex_lista_simple_1.c]]
 * 20250828
 - [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_lista_simple_2.c][ex_lista_simple_2.c]]
+* 20250903
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_lista_simple_3.c][ex_lista_simple_3.c]]
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_stack.c][ex_stack.c]]
+* 20250904
+- [[https://github.com/aweinstein/elo320_2025-2/blob/main/ex_buffer_circular.c][ex_buffer_circular.c]]
+  
